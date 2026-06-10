@@ -7,7 +7,6 @@ I enjoy building modern web applications and creating solutions that solve real-
 🌟 Skills:
 
 - React.js
-- Vue.js
 - TypeScript
 - Node.js
 - Express.js
