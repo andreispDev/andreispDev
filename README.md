@@ -1,6 +1,6 @@
 # Hi, I'm Andrei 👋
 
-I am a Full Stack Developer based in the Philippines.
+I am a Frontend Developer based in the Philippines.
 
 I enjoy building modern web applications and creating solutions that solve real-world problems.
 
